@@ -1,3 +1,5 @@
-function main() {
+package main
+
+func main() {
     console.log("ok!!")
 }
