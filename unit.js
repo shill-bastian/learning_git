@@ -1,5 +1,5 @@
 package main
 
-func main() {
+function main() {
     console.log("ok!!")
 }
